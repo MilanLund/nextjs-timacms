@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tinacms/cli": "^1.5.29",
-    "next": "latest",
+    "next": "13.5.3",
     "react": "latest",
     "react-dom": "latest",
     "tinacms": "^1.5.20"
